@@ -5,12 +5,12 @@ This project implements three main techniques for document and image classificat
 ## 1. Image Classification
 - **Models:** VGG16, EfficientNet
 - **Description:** Standard image classification to assign a single label to each image.
-- [`notebook/prediction.ipynb`](notebook/prediction.ipynb)
+- [`notebook/text_document_train_cnn_vgg_eff.ipynb`](notebook/text_document_train_cnn_vgg_eff.ipynb)
 
 ## 2. Image Multilabel Classification
 - **Models:** Vision Transformer (ViT), Custom Architecture
 - **Description:** Assigns single labels to each image using advanced architectures.
-- [`notebook/prediction.ipynb`](notebook/prediction.ipynb)
+- [`notebook/document-clasification-vit-mlc.ipynb`](notebook/document-clasification-vit-mlc.ipynb)
 
 ## 3. Document Layout Classification
 - **Model:** LayoutLMv2
