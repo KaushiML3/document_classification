@@ -79,7 +79,7 @@ This project implements three main techniques for document and image classificat
     <img src="path/to/vgg16_confusion_matrix.png" alt="Mlflow" width="400"/>
 
 - **Try it on Hugging Face Spaces:**  
-  [![Gradio App](https://img.shields.io/badge/Gradio-Demo-blue?logo=gradio)](https://huggingface.co/spaces/your-username/your-space-name)
+  [![Gradio App](https://img.shields.io/badge/Gradio-Demo-blue?logo=gradio)](https://huggingface.co/spaces/KaushiGihan/Image_BasedText_Classification)
 
 ## Challenges
 
