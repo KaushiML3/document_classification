@@ -15,7 +15,7 @@ This project implements three main techniques for document and image classificat
 ## 3. Document Layout Classification
 - **Model:** LayoutLMv2
 - **Description:** Classifies documents based on their layout and structure using LayoutLMv2.
-- [`notebook/prediction.ipynb`](notebook/prediction.ipynb)
+- [`notebook/layoutlmv2-fine-tune.ipynb`](notebook/layoutlmv2-fine-tune.ipynb)
 
 ## Dataset
 
@@ -94,21 +94,12 @@ This project implements three main techniques for document and image classificat
 
 
 
-## Model Confusion Matrix Comparison
+## Model Top Confusion Matrix Comparison
 
 Add the confusion matrix images for each model below:
 
-- **VGG16:**
-  <img src="path/to/vgg16_confusion_matrix.png" alt="VGG16 Confusion Matrix" width="400"/>
-
-- **EfficientNet:**
-  <img src="path/to/efficientnet_confusion_matrix.png" alt="EfficientNet Confusion Matrix" width="400"/>
-
 - **ViT:**
   <img src="path/to/vit_confusion_matrix.png" alt="ViT Confusion Matrix" width="400"/>
-
-- **Custom Architecture:**
-  <img src="path/to/custom_confusion_matrix.png" alt="Custom Architecture Confusion Matrix" width="400"/>
 
 - **LayoutLMv2:**
   <img src="path/to/layoutlmv2_confusion_matrix.png" alt="LayoutLMv2 Confusion Matrix" width="400"/>
