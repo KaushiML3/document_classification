@@ -35,7 +35,7 @@ This project implements three main techniques for document and image classificat
 - **MLflow & DagsHub:** Used for tracking experiments and managing model registry throughout the project lifecycle.
 - **DagsHub Project:** [View on DagsHub](https://dagshub.com/kaushigihanml/document_classification)
     <img src="src_img/Screenshot (304).png" alt="Mlflow" width="400"/>
-    <img src="src_img/2070046307a.jpgScreenshot (302).png" alt="Mlflow" width="400"/>
+    <img src="src_img/Screenshot (302).png" alt="Mlflow" width="400"/>
     <img src="src_img/Screenshot (303).png" alt="dagshub" width="400"/>
 
 ## Workflow Management
