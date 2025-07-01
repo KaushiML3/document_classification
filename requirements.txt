@@ -1,0 +1,29 @@
+transformers==4.53.0
+efficientnet==1.1.1
+seaborn==0.13.2
+libfinder==0.1.7
+pathlib==1.0.1
+requests==2.32.3
+tensorflow==2.18.0
+dagshub==0.5.10
+google==2.0.3
+torch==2.7.1
+numpy==2.0.2
+pandas==2.2.2
+opencv-python
+mlflow==3.1.1
+keras==3.8.0
+scikit-learn==1.6.1
+ensure==1.0.4
+joblib==1.5.1
+matplotlib==3.10.0
+ensure==1.0.4
+python-box
+pydot
+graphviz
+#'git+https://github.com/facebookresearch/detectron2.git'
+gradio
+fastapi==0.115.4
+uvicorn==0.34.0
+python-multipart== 0.0.19
+-e .

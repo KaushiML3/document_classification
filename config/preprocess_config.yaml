@@ -1,0 +1,6 @@
+height_shift_range: 0.2
+horizontal_flip: true
+rotation_range: 30
+shear_range: 0.2
+width_shift_range: 0.2
+zoom_range: 0.2

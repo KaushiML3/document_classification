@@ -5,7 +5,10 @@ __pycache__/
 
 # C extensions
 *.so
-
+dataset/
+artifacts/
+.zen/
+logs/
 # Distribution / packaging
 .Python
 build/
