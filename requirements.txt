@@ -21,6 +21,7 @@ ensure==1.0.4
 python-box
 pydot
 graphviz
+#ss
 #'git+https://github.com/facebookresearch/detectron2.git'
 gradio
 fastapi==0.115.4
